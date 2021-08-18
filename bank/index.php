@@ -82,7 +82,20 @@
 
             <div class="column activity text-center">
 
-                  
+                  <div class="col-md act">
+
+                   
+
+                    <br>
+
+                    <br>
+
+                    <br>
+
+                    <a href="transfermoney.php"><button>View Customers to transfer</button></a>
+
+                  </div>
+
 
                   <div class="col-md act">
 
@@ -100,20 +113,7 @@
 
 
 
-                  <div class="col-md act">
-
-                   
-
-                    <br>
-
-                    <br>
-
-                    <br>
-
-                    <a href="transfermoney.php"><button>View Customers to transfer</button></a>
-
-                  </div>
-
+                  
                   
 
             </div>
