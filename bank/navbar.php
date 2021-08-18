@@ -2,7 +2,7 @@
 
 <nav class="navbar navbar-expand-md navbar-light bg-light">
 
-<a class="navbar-brand" href="index.php">Welcome to Chirag Bank</a>
+<a class="navbar-brand" href="index.php">Bank Of TamilNadu</a>
 
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 
@@ -22,7 +22,7 @@
 
         <li class="nav-item">
 
-          <a class="nav-link" href="transfermoney.php">HISTORY</a>
+          <a class="nav-link" href="transfermoney.php">VIEW CUSTOMERS</a>
 
         </li>
 
