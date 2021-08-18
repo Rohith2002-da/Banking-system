@@ -20,7 +20,11 @@
 
         </li>
 
+        <li class="nav-item">
 
+          <a class="nav-link" href="transfermoney.php">HISTORY</a>
+
+        </li>
 
         <li class="nav-item">
 
@@ -28,6 +32,6 @@
 
         </li>
 
-    </div>
+</div>
 
  </nav>
