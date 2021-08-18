@@ -108,24 +108,24 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 
-(1, 'Ashis', 'asish@gmail.com', 5000),
+(1, 'Rohith', 'Rohith@gmail.com', 5000),
 
-(2, 'Rekha', 'rekha@gmail.com', 6000),
+(2, 'Partha', 'partha@gmail.com', 6000),
 
-(3, 'Ramesh', 'ramesh@gmail.com', 3000),
+(3, 'Ram', 'Ram@gmail.com', 3000),
 
-(4, 'Madhuri', 'madhuri@gmail.com', 5000),
+(4, 'Vishal', 'Vishal@gmail.com', 5000),
 
-(5, 'Sreya', 'sreya@gmail.com', 2000),
+(5, 'Praveen', 'Praveen@gmail.com', 2000),
 
-(6, 'Nisha', 'nisha@gmail.com', 6000),
+(6, 'Ajay', 'Ajay@gmail.com', 6000),
 
-(7, 'Aly', 'aly@gmail.com', 7000),
+(7, 'Sabari', 'Sabari@gmail.com', 7000),
 
-(8, 'Tushar', 'tushar@gmail.com', 5000),
+(8, 'Aswin', 'Aswin@gmail.com', 5000),
 
-(9, 'Harsh', 'harsh@gmail.com', 1000),
+(9, 'Santhosh', 'Santhosh@gmail.com', 1000),
 
-(10, 'Varti', 'varti@gmail.com', 9000);
+(10, 'Raj', 'Raj@gmail.com', 9000);
 
 COMMIT;
